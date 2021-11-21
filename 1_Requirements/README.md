@@ -1,5 +1,4 @@
 # Requirements: #
-==================
 
 # Library Management System #
 
