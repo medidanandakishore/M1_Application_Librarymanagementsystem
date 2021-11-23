@@ -5,3 +5,4 @@ int main()
     printf("\n*******Hurry, It works******\n");
     return 0;
 }
+
