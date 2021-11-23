@@ -39,6 +39,48 @@ An understanding of the organizational hierarchy will enable proper delegation o
 
 ## SWOT ANALYSIS:
 
+## Strengths :
+Assessing a library's strengths, areas in which it is already successful, includes looking at staff skills and competencies, programming, budget maintenance and community relations. Planning for the library's future based on its strengths should include ways to maintain and improve existing success.
+
+## Weaknesses :
+Analyzing a library's weaknesses also means evaluating internal operations. G. Edward Evans and Patricia Layzell Ward, authors of "Management Basics for Information Professionals," point out that weaknesses may lie in the same areas as strengths. Careful analysis of library weaknesses suggests which areas need improvement. Weaknesses also identify areas that need attention to reduce the negative impact of their weaknesses.
+
+## Opportunities :
+Factors outside the library itself should be evaluated to see what could be acted upon to benefit the library. Library opportunities may present themselves in "economic, political/legal, technological, or sociocultural environments," says Anthony C. Danca in his analysis of SWOT. For example, awareness of a high economic status of the library's main patron base provides a population likely to participate in fund-raising activities.
+
+## Threats :
+Analyzing library threats also means evaluating factors outside the library that hinder its success. Like opportunities, many threats stem from the economic and political environment, says Danca. For example, economic downturns threaten to reduce the budgets of publicly funded libraries. Maintaining current awareness of threats allows the library administration to plan and act. This area requires frequent attention because the external environment often changes quickly.
+
+## 4W's and 1H's:
+
+WHAT : The library management system software makes the library a smart one by organizing the books systematically by author, title and subject. This enables users to search for books quickly and effortlessly.
+
+WHERE : Used in library.
+
+WHEN : At library.
+
+WHY : The library management system software should be user-friendly and cost effective. It should be in tune with the establishment’s needs and compatible with the existing technology.
+
+HOW : Managing a library requires knowledge of library management and skills to perform the activities. The task involves planning, decision making, organizing, collecting and disbursing information and controlling and monitoring the various functions.
+
+## HIGH LEVEL REQIUREMENTS:
+
+1.Provide the information regarding books.
+2.Search for the required books from database.
+3.Add new book to the database.
+4. Add the cost of book
+5. Add the author name of book.
+6.Update the number of books in database.
+7.Enter data of book in Database.
+8.Information of books.
+
+## LOW LEVEL REQUIREMENTS:
+
+1.Computer System.
+2.Networking Device.
+3.Software.
+4.Database.
+5.Server.
 
 
 ADVANTAGES OF LIBRARY MANAGEMENT SYSTEM SOFTWARE:
