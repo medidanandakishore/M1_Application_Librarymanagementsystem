@@ -37,6 +37,9 @@ Managing a library requires knowledge of library management and skills to perfor
 The management should have an objective for running the library. They should have a clear idea of the members they wish to serve. The selection of books in different categories is dependent on the interests of the members.
 An understanding of the organizational hierarchy will enable proper delegation of responsibilities to the personnel employed. Governmental regulations regarding structure, space and systems should be in place.
 
+## SWOT ANALYSIS:
+
+
 
 ADVANTAGES OF LIBRARY MANAGEMENT SYSTEM SOFTWARE:
 ===================================================
