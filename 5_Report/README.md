@@ -149,7 +149,7 @@ The system reports the performance of the library automatically. Charts and grap
 |  L_02       |N.of books in library                                         |            |counts no.of books|counts the no.of books|Scenario based    |
 |  L_03       |Exit                                                          | 6          |exits the window|exits from the window|Boundary based    |
 
- 
+## output: 
 
 ![image](https://user-images.githubusercontent.com/94270473/143224012-9c3a4456-89bc-48b3-8d1c-b49f0468bdec.png)
 
